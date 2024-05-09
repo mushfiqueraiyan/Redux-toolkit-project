@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.3",
+    "react-redux": "^9.1.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
